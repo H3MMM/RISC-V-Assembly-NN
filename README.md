@@ -75,7 +75,7 @@
 
 1.  进入 `unittests` 目录:
     ```bash
-    cd fa20-proj2-starter/unittests
+    cd unittests
     ```
 
 2.  运行所有单元测试:
